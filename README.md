@@ -3,8 +3,6 @@
 
 
 
-This is a Data Science Project Genetic diversity Snail species Ecotypes Archachatina marginata Achatina fulica western highlands Cameroon
-
 
 # Hi, I'm Constantin Nzwessa! 👋
 
