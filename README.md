@@ -32,7 +32,7 @@ Data Analyst/Data Scientist with 4+ years of experience in interpreting and anal
 
 👯‍♀️ Master in Computer Science
 
-🤔 Professional development in the field of Data Science
+🤔 Professional development in the field of Data Analyst/Data Science
 
 📫 How to reach me constantin.nzwessa@googlemail.com
 
