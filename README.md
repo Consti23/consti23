@@ -8,9 +8,9 @@
 
 
 ## 🚀 About Me
-I am Full Stack Data Analyst and Data Scientist.
+I am Full Stack Data Analyst,Data Engineer and Data Scientist.
 
-Data Analyst/Data Scientist with 5+ years of experience in interpreting and analyzing data to drive successful business solutions and Analytical data scientist with strong problem-solving and communication skills. Proficient in statistics, mathematics, and analytical tools for effective data analysis and Data Scientist.
+Data Analyst, Data Engineer and Data Scientist with 5+ years of experience in interpreting and analyzing data to drive successful business solutions and Analytical data scientist with strong problem-solving and communication skills. Proficient in statistics, mathematics, and analytical tools for effective data analysis and Data Scientist.
 
 
 ## 🛠 Skills
@@ -29,11 +29,11 @@ Data Analyst/Data Scientist with 5+ years of experience in interpreting and anal
 ## Summary of My Journey
 👩‍💻 Started as a Data Analyse
 
-🧠 B. Sc. Computer Science
+🧠 B.Sc. in Computer Science
 
-👯‍♀️ Master in Computer Science
+👯‍♀️ M.Sc. in Computer Science
 
-🤔 Professional development in the field of Data Analyst/Data Science
+🤔 Professional development in the field of Data Analyst/Data Engineer/Data Science
 
 📫 How to reach me constantin.nzwessa@googlemail.com
 
