@@ -19,7 +19,7 @@ Data Analyst, Data Engineer and Data Scientist with 5+ years of experience in in
 3. Data Scienctist (Machine Learning and Deep Learning)
 4. SQL Server Management Studio
 5. Data Visualisation with QlikView, Tableau and Power BI
-5.Azure Administrator
+6. Azure Administrator
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.xing.com/profile/Constantin_Nzwessa2/cv)
