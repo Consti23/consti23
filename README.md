@@ -10,15 +10,16 @@
 ## 🚀 About Me
 I am Full Stack Data Analyst and Data Scientist.
 
-Data Analyst/Data Scientist with 4+ years of experience in interpreting and analyzing data to drive successful business solutions and Analytical data scientist with strong problem-solving and communication skills. Proficient in statistics, mathematics, and analytical tools for effective data analysis and Data Scientist.
+Data Analyst/Data Scientist with 5+ years of experience in interpreting and analyzing data to drive successful business solutions and Analytical data scientist with strong problem-solving and communication skills. Proficient in statistics, mathematics, and analytical tools for effective data analysis and Data Scientist.
 
 
 ## 🛠 Skills
-1. Data Analyse with Python and R
-2. Data Scienctist (Machine Learning and Deep Learning)
-3. SQL Server Management Studio
-4. Data Visualisation with QlikView, Tableau and Power BI
-5. AWS Cloud Computing
+1. Data Analyse with Python
+2. Data Engineer
+3. Data Scienctist (Machine Learning and Deep Learning)
+4. SQL Server Management Studio
+5. Data Visualisation with QlikView, Tableau and Power BI
+5.Azure Administrator
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.xing.com/profile/Constantin_Nzwessa2/cv)
